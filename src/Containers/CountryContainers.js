@@ -18,7 +18,7 @@ function CountryContainer(){
                             <h4 className="m-1">{countryy.country}</h4>
                             <hr />
                             <h6 className="m-2">Cases: {countryy.cases}</h6>
-                            <h6 className="m-2">Recoverd: {countryy.recovered}</h6>
+                            <h6 className="m-2">Recovered: {countryy.recovered}</h6>
                             <h6 className="m-2">Deaths: {countryy.deaths}</h6>
                             </div>
                         </div>
